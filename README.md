@@ -37,7 +37,7 @@ Journey to a job through books and project-based learning
 - Clean Code https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X8ZXT15
 - Cracking the Coding Interview https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 - Game Programming Patterns https://www.amazon.com/gp/product/0990582906
-- Intro to Functional Programming with Lambda Calculus (name makes it sound harder than it is, understanding λ-calc) https://www.amazon.com/gp/product/0486478831
+- Intro to Functional Programming with Lambda Calculus (name makes it sound harder than it is, understanding λ-calc opens up programming a lot) https://www.amazon.com/gp/product/0486478831
 
 #### Deep Learning
 
