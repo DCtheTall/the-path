@@ -80,3 +80,5 @@ Journey to a job through books and project-based learning
 - Deep Learning (theory, recommend skipping stuff on RBMs) https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618
 - Generative Deep Learning (some is outdated, but good GenAI foundation) https://www.amazon.com/gp/product/1492041947
 - Grokking Deep Reinforcement Learning (recommended by MIT prof) https://www.amazon.com/gp/product/1617295450
+- Diffusion model (DDIM) for image generation in Keras https://keras.io/examples/generative/ddim/
+
