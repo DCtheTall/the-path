@@ -14,7 +14,7 @@ Journey to a job through books and project-based learning
 - 30 Days of JavaScript https://javascript30.com/
 - Three.js https://threejs.org/
 - Codepen, easy to experiment, CSS art https://codepen.io/
-- MIT Intro to Algo https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+- **MIT Intro to Algo** https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 - CSS Flex https://flexboxfroggy.com/
 - CSS Grid https://cssgridgarden.com/
 - Linux Basics https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
@@ -37,13 +37,13 @@ Journey to a job through books and project-based learning
 - Clean Code https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X8ZXT15
 - Cracking the Coding Interview https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 - Game Programming Patterns https://www.amazon.com/gp/product/0990582906
-- Intro to Functional Programming with Lambda Calculus (name makes it sound harder than it is, understanding λ-calc opens up programming a lot) https://www.amazon.com/gp/product/0486478831
+- **Intro to Functional Programming with Lambda Calculus** (name makes it sound harder than it is, understanding λ-calc opens up programming a lot) https://www.amazon.com/gp/product/0486478831
 
 #### Deep Learning
 
 - Knowing how to use Colab will be useful for these
 - Intro to ML with Python (basics, mostly Scikit Learn) https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413
-- Hands-On ML with SKLearn and TensorFlow (my favorite learn-to-ML book) https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975
+- **Hands-On ML with SKLearn and TensorFlow** (my favorite learn-to-ML book) https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975
 
 #### General life?
 
